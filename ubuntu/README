@@ -1,0 +1,12 @@
+# apt update
+# apt upgrade
+
+# wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+
+# apt-get install -y ./google-chrome-stable_current_amd64.deb
+
+# google-chrome --version
+Google Chrome 123.0.6312.86
+
+# pip3 install selenium
+# pip3 install webdriver-manager
